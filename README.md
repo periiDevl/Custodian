@@ -1,0 +1,3 @@
+![Clogo](https://github.com/periiDevl/Custodian/assets/97846999/dcc1f05c-fdb6-4018-bbfc-61d64047efef)
+# Custodian
+> Detect, Observe, Change...its a file change detector...
